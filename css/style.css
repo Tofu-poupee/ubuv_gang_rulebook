@@ -492,7 +492,7 @@ a.inline:hover {
 }
 
 .header-span span {
-    border-bottom: #7a2f51 1px solid; /* 見本の濃い赤系のボーダー */
+    border-bottom: #f0c0c0 1px solid; /* 見本の濃い赤系のボーダー */
     color: #e00000; /* 鮮やかな赤に */
 }
 
@@ -512,3 +512,4 @@ a.inline:hover {
         font-size: 10px;
     }
 }
+
